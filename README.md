@@ -73,7 +73,7 @@ While implementing your solution **please take care of the following requirement
 
 #### Requirements
 
-- Java 17
+- Java 16
 - Java IDE Intellij
 - MYSQL databse
 - Postman(For testing ) 
